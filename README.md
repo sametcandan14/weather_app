@@ -1,3 +1,7 @@
+<h1>Weather App</h1>
+
+![](./public/app.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
